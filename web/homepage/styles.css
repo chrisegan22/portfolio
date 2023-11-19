@@ -1,0 +1,79 @@
+
+h1,
+h2,
+h1 {
+  font-size: 3.0em;
+  padding: 10px 0;
+  font-weight: 800;
+  font-family: Times New Roman (serif);
+}
+
+h2 {
+  font-size: 1.1em;
+  font-weight: 100;
+  letter-spacing: 5px;
+  text-align: center;
+  font-family: Courier New (monospace);
+  color: red;
+}
+/* header section the blue banner */
+.header {
+  width: 100%;
+  padding:60px 0;
+  text-align: center;
+  background: #33cccc;
+  color: white;
+  border-style: double;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 320;
+    width: 320px;
+    image-rendering: auto;
+}
+/*header*/
+h5 {
+  font-size: 1.6em;
+  font-weight: 100;
+  letter-spacing: 3px;
+  text-align: center;
+  font-family: Courier New (monospace);
+  text-decoration: underline;
+  }
+/*content*/
+p {
+font-size: 17px;
+font-weight: 100;
+letter-spacing: 3px;
+text-align: center;
+font-family: Courier New (monospace);
+text-shadow: 2px 2px 5px red;
+}
+/*center image*/
+.python {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 320;
+    width: 320px;
+}
+
+h3 {
+    font-size: 1.6em;
+    font-weight: 100;
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: Courier New (monospace);
+    text-decoration: underline;
+  }
+/* main section of the footer */
+main {
+  background: #33cccc;
+  border-style: double;
+  color: white;
+}
