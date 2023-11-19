@@ -1,0 +1,17 @@
+/* Size for brand */
+nav .navbar-brand {
+    font-size: xx-large;
+}
+
+h1 {
+    text-shadow: 1px 1px 2px black,
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
