@@ -1,0 +1,4 @@
+Ask user for height between 1 - 8 if not between 1-8 ask again
+see if height is smaller than 8 but bigger than 0
+print out height and add one block with each new line in height
+starting with low until height.

@@ -1,0 +1,13 @@
+ /* open memory card
+ repeat until end of card:
+ Read 512 bytes into a buffer
+ If start of new JPEG
+ if first JPEG
+ ....
+ Else
+ ...
+ Else
+ if already found JPEG
+ ...
+ Close any remaing files
+ */
